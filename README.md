@@ -1,1 +1,1 @@
-RIGA FINALE RISOLTA
+Modifica tramite Git GUI
